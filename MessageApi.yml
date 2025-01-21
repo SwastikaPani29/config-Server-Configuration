@@ -1,1 +1,3 @@
-msg:good evening
+api:
+  message: "Hello from Config Server"
+
